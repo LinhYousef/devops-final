@@ -7,7 +7,7 @@ You are not logged in<br/>
 %>
 <center>
     <h1>Welcome <%=session.getAttribute("userid")%></h1>
-    <h2>DevOps World - V1.7 </h3>
+    <h2>DevOps World - V1.8 </h3>
     <h3>Happy Learning!</h4>
 </center>
 
